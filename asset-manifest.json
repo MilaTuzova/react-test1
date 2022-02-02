@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-test1/static/js/main.ad8e2198.js",
+    "static/media/fox.jpg": "/react-test1/static/media/fox.5ccb8122a054d31268f1.jpg",
+    "index.html": "/react-test1/index.html",
+    "main.ad8e2198.js.map": "/react-test1/static/js/main.ad8e2198.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ad8e2198.js"
+  ]
+}

@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 export default function Painting({ name, imgUrl = defaultImg, isOnline }) {
   return (
     <div>
-      <img src={imgUrl ?? defaultImg} alt="images" width="150" />
+      <img src={imgUrl ?? defaultImg} alt="images" width="360" />
       <h2>NAME</h2>
       <div>
         <p> {name} </p>
